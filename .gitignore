@@ -1,0 +1,167 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt
+dist
+
+# Gatsby
+.cache/
+public
+
+# Vuepress
+.vuepress/dist
+
+# Serverless
+.serverless/
+
+# FuseBox
+.fusebox/
+
+# DynamoDB Local
+.dynamodb/
+
+# TernJS
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Models and data files (don't commit trained models or user data)
+models/
+*.joblib
+*.pkl
+*.pth
+*.h5
+*.model
+
+# Uploaded files
+uploads/
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Docker
+.docker/
+
+# Environment files (except example)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+!ml-experiments/example_data/sample_sales.csv
+
+# MacOS
+*.DS_Store?
+
+# Windows
+Desktop.ini
+
+# Linux
+*~
+
+# Local development
+.dockerignore
