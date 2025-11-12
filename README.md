@@ -1,4 +1,4 @@
-# NeuroForecast AI - Intelligent Sales Prediction Platform
+<img width="1538" height="928" alt="image" src="https://github.com/user-attachments/assets/1cf4584d-2af4-475a-a662-6616ca44a443" /># NeuroForecast AI - Intelligent Sales Prediction Platform
 
 A cutting-edge AI-powered sales forecasting platform that transforms your sales data into actionable intelligence with advanced machine learning and real-time analytics.
 
@@ -65,4 +65,4 @@ A cutting-edge AI-powered sales forecasting platform that transforms your sales 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd neuroforecast-ai
+   cd ai-sales-forecasting-platform
